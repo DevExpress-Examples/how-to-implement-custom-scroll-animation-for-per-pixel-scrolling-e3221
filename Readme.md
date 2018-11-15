@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/CustomScrollAnimation/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/CustomScrollAnimation/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/CustomScrollAnimation/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/CustomScrollAnimation/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to: Implement Custom Scroll Animation for Per-Pixel Scrolling
 
 
